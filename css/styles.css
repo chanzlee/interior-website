@@ -1,0 +1,26 @@
+.intro {
+  width: 300px;
+  height: 500px;
+  float: left;
+  padding: 10px;
+  background-color:green;
+
+}
+.intro2 {
+  width: 300px;
+  height: 500px;
+  float: left;
+  padding: 10px;
+}
+.intro3 {
+  width: 300px;
+  height: 500px;
+  float: left;
+  padding: 10px;
+  background-color:red;
+}
+
+.models {
+  width: 300px;
+  float: left;
+}
